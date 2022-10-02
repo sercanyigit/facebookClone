@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FacebookCloneUI</string>
+    <string name="search">search</string>
+    <string name="chat">chat</string>
 </resources>

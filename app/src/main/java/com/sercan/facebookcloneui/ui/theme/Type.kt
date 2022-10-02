@@ -9,9 +9,7 @@ import androidx.compose.ui.unit.sp
 import com.sercan.facebookcloneui.R
 
 val fbFont = FontFamily(
-    listOf(
-        Font(R.font.facebook)
-    )
+     Font(R.font.facebook)
 )
 
 val Typography = Typography(
