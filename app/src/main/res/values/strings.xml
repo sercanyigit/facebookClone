@@ -2,4 +2,10 @@
     <string name="app_name">FacebookCloneUI</string>
     <string name="search">search</string>
     <string name="chat">chat</string>
+    <string name="news">news</string>
+    <string name="marketplace">marketplace</string>
+    <string name="notifications">notifications</string>
+    <string name="menu">menu</string>
+    <string name="reels">reels</string>
+    <string name="home">home</string>
 </resources>

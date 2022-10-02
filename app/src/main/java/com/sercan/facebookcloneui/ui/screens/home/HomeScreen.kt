@@ -7,6 +7,7 @@ import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.material.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import com.sercan.facebookcloneui.ui.components.AppTabBar
 import com.sercan.facebookcloneui.ui.components.TopBar
 
 @Composable
@@ -19,6 +20,9 @@ fun HomeScreen() {
         LazyColumn {
             item {
                 TopBar()
+            }
+            item {
+                AppTabBar()
             }
         }
     }
